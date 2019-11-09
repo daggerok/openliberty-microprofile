@@ -21,6 +21,10 @@ Go to start.microprofile.io site ang choose:
 
 ## links
 
+* https://www.mvc-spec.org/krazo/docs/install-archetype.html
 * https://start.microprofile.io/
 * https://www.youtube.com/watch?v=Jemx1BrB45Y
 * https://openliberty.io/blog/2018/05/22/microprofile-openapi-intro.html
+* JPA: https://openliberty.io/guides/jpa-intro.html#configuring-jpa
+
+
